@@ -7,7 +7,7 @@ My name it's Javier, I'm a Front-End Developer from Mexico.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javchz&layout=compact"/>
 
-<table width="320px">
+<table >
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -18,8 +18,6 @@ My name it's Javier, I'm a Front-End Developer from Mexico.
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
