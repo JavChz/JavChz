@@ -2,10 +2,9 @@
 
 <h3 align="center">Front-End & Full-Stack Developer from Mexico 🇲🇽 | Exploring AI 🤖</h3>
 
-<br/>
 
 <p align="center">
-  <a href="https://javchz.github.io/"><b>✨ Check out my Experiment Projects ✨</b></a>
+  <a href="https://javchz.github.io/"><b>My Experiment Projects https://javchz.github.io/ </b></a>
 </p>
 
 <br/>
@@ -13,10 +12,10 @@
 ### 👨‍💻 About Me
 
 - 💡 I specialize in building modern, interactive web applications with a focus on clean UI/UX.
-- 🚀 Currently expanding my skill set into **Generative AI** and broader Full-Stack development.
-- ⚡ Fun fact: When I'm not coding, I'm probably experimenting with PC hardware, planning my next trip, or behind the lens of my camera.
+- 🌱 Currently deepening my expertise in **Generative AI** and building scalable Full-Stack architectures.
+- ⚡ Random fact: When I'm not coding, I'm probably experimenting with PC hardware, planning my next trip, or behind the lens of my camera.
 
-### 🛠️ Tech Stack
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -41,10 +40,11 @@
   </a>
 </p>
 
-<br/>
+---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javchz&layout=compact&theme=radical" alt="Javier's GitHub stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javchz&show_icons=true&theme=radical" alt="Javier's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javchz&layout=compact&theme=radical" alt="Javier's Top Languages" height="165" />
+</div>
