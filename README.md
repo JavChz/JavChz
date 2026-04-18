@@ -18,38 +18,28 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><strong>HTML5</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>CSS3</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>TypeScript</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>React</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>Git</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><strong>GitHub</strong></span><br />
-          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+### 🛠️ Tech Stack & Tools
+
+**Front-End Development**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
+  </a>
+</p>
+
+**Back-End & AI**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb" />
+  </a>
+</p>
+
+**Tools & Workflow**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  </a>
+</p>
 
 <br/>
 
