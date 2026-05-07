@@ -3,10 +3,8 @@
 <h3 align="center">Full-Stack Developer 🇲🇽</h3>
 
 <p align="center">
-  <a href="https://javchz.github.io/"><b>Check out my experiments at javchz.github.io</b></a>
+  <a href="https://javchz.github.io/"><b>My experiments at javchz.github.io</b></a>
 </p>
-
-<br/>
 
 ### 👨‍💻 A bit about me
 
