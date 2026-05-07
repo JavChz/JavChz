@@ -21,7 +21,7 @@
 **Front-End Development**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,zustand" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 **Tools & Workflow**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,jira" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
   </a>
 </p>
 
