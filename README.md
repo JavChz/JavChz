@@ -21,29 +21,22 @@
 **Front-End Development**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,zustand" />
   </a>
 </p>
 
 **Back-End & AI**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,python,postgres,mongodb" />
   </a>
 </p>
 
 **Tools & Workflow**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,jira" />
   </a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javchz&show_icons=true&theme=radical" alt="Javier's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javchz&layout=compact&theme=radical" alt="Javier's Top Languages" height="165" />
-</div>
