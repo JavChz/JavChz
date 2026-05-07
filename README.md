@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Javier</h1>
 
-<h3 align="center">Full-Stack Developer 🇲🇽/h3>
+<h3 align="center">Full-Stack Developer 🇲🇽</h3>
 
 <p align="center">
   <a href="https://javchz.github.io/"><b>Check out my experiments at javchz.github.io</b></a>
